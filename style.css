@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    color: tomato;
+    border: 10px solid yellowgreen;
+    padding: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.extra{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
